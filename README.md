@@ -8,6 +8,7 @@ Sistem İzleme ve Uyarı Modülü (C#)
 Terminal Yönetimi ve Oturum Kapatma Modülü (.bat)
 Projede Kullanılan Kütüphaneler ve Temel İşlevleri
 System: Temel .NET sınıflarını içerir (veri türleri, istisnalar, matematik işlemleri vb.).
+Kullanmış Olduğum Kütüphaneler
 System.ComponentModel: Bileşenlerin ve kontrollerin özelliklerini yönetir.
 System.Diagnostics: İşlem yönetimi ve hata ayıklama (örneğin Process.Start() ile program başlatma).
 System.IO: Dosya okuma, yazma ve yönetme işlemleri.
